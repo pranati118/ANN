@@ -1,0 +1,13 @@
+name: ANN-
+title: ANN-
+username: pranati-1108
+account: pranati-1108
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649156
+bundleId: 9583934
+url: https://pranati-1108.shinyapps.io/ANN-/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
